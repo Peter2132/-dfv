@@ -1,0 +1,84 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Redmi Note 9",
+        "price": 100,
+        "imageUrl": "https://avatars.mds.yandex.net/get-marketpic/7745146/pic2faaf569ffcb9096b5ab389446f30030/180x240",
+        "category": "Xiaomi",
+        "description": "Redmi Note 9 — это новое устройство в одной из самых популярных линеек компании Xiaomi ."
+      },
+      {
+        "id": 2,
+        "name": "Samsung Galaxy A53",
+        "price": 200,
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/7690783/img_id4924617967247322524.png/180x240",
+        "category": "Samsung",
+        "description": "Samsung Galaxy A53 SM-A536 - смартфон с привлекательным дизайном синего цвета."
+      },
+      {
+        "id": 3,
+        "name": "Xiaomi Redmi 10C",
+        "price": 200,
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/5219306/img_id3432965680349401867.jpeg/180x240",
+        "category": "Xiaomi",
+        "description": "Redmi 10C обладает интересными характеристиками: здесь производительный Qualcomm Snapdragon 680 4G."
+      },
+      {
+        "id": 4,
+        "name": "Apple iPhone 14 Pro",
+        "price": 200,
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4448884/img_id6599794068360807117.jpeg/180x240",
+        "category": "Apple",
+        "description": "Новый волшебный способ взаимодействия с iPhone."
+      },
+      {
+        "id": 5,
+        "name": "Xiaomi Poco X6 Pro",
+        "price": 200,
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4901709/2a0000018eb96a62449466585d211e7867ae/180x240",
+        "category": "Xiaomi",
+        "description": "Цвет: серый; Экран 6.67; бомба"
+      },
+      {
+        "id": 6,
+        "name": "HONOR X7",
+        "price": 200,
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4343038/img_id4627757891756927465.jpeg/180x240",
+        "category": "HONOR",
+        "description": "Honor X7 — смартфон, обладающий всеми возможностями для продуктивной работы и комфортного отдыха."
+      },
+      {
+        "id": 7,
+        "name": "Huawei P60 Pro",
+        "price": 200,
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4785755/img_id5746831804157431837.jpeg/180x240",
+        "category": "Huawei",
+        "description": "Инновационный экран с четырьмя слегка изогнутыми краями для ощущения округлости и плавности работы."
+      },
+      {
+        "id": 8,
+        "name": "Samsung Galaxy A05s",
+        "price": 200,
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/9067823/img_id3786907482764524657.png/180x240",
+        "category": "Samsung",
+        "description": "Galaxy A05s отличает продуманный дизайн и великолепная текстура поверхности."
+      },
+      {
+        "id": 9,
+        "name": "Apple iPhone 15 Pro",
+        "price": 200,
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/11760083/img_id3734974847976223455.jpeg/180x240",
+        "category": "Apple",
+        "description": "iPhone 15 Pro: новый король смартфонов с инновационными функциями!"
+      },
+      {
+        "id": 10,
+        "name": "Xiaomi POCO M6 Pro",
+        "price": 200,
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/12390472/img_id5308950660678713101.jpeg/180x240",
+        "category": "Xiaomi",
+        "description": "Смартфон Xiaomi POCO M6 Pro 8/256 ГБ EU - это мощный и функциональный гаджет от известного бренда Xiaomi."
+      }
+    ]
+}
